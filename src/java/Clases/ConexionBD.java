@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  */
 public class ConexionBD {
     private Connection con = null;
-    private String bd = "ManobandaIngreso";
+    private String bd = "crud";
     private String usuario = "carlos";
     private String clave = "12345";
     
